@@ -28,7 +28,7 @@ An interactive Telegram bot leveraging **Google Gemini AI** to provide dynamic, 
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/codeagrim/SSC-Telegram-Chatbot](git@github.com:codeagrim/SSC-Telegram-Chatbot.git)
+    git clone https://github.com/codeagrim/SSC-Telegram-Chatbot.git
     cd ssc-quiz-bot
     ```
 2.  **Install dependencies:**
